@@ -1,0 +1,6 @@
+{
+  "name": "Arham Cooling Solutions",
+  "description": "Professional AC and refrigerator repair, servicing, installation, and maintenance at your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

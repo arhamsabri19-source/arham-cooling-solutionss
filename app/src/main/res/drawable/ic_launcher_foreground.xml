@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center circular aura -->
+    <path
+        android:fillColor="#1A38BDF8"
+        android:pathData="M54,54m-34,0a34,34 0,1,1 68,0a34,34 0,1,1 -68,0" />
+    <path
+        android:fillColor="#330284C7"
+        android:pathData="M54,54m-26,0a26,26 0,1,1 52,0a26,26 0,1,1 -52,0" />
+    <!-- Cooling breeze wave top -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#7DD3FC"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M27,33 C36,29 45,37 54,33 C63,29 72,36 81,33" />
+    <!-- Cooling breeze wave bottom -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#7DD3FC"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M27,75 C36,71 45,79 54,75 C63,71 72,78 81,75" />
+    <!-- Core snowflake emblem -->
+    <group
+        android:pivotX="0"
+        android:pivotY="0"
+        android:scaleX="2.5"
+        android:scaleY="2.5"
+        android:translateX="24"
+        android:translateY="24">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M22,11h-4.17l3.24,-3.24-1.41,-1.42L15,11h-2V9l4.66,-4.66-1.42,-1.41L13,6.17V2h-2v4.17L7.76,2.93 6.34,4.34 11,9v2H9L4.34,6.34 2.93,7.76 6.17,11H2v2h4.17l-3.24,3.24 1.41,1.42L9,13h2v2l-4.66,4.66 1.42,1.41L11,17.83V22h2v-4.17l3.24,3.24 1.42,-1.42L13,15v-2h2l4.66,4.66 1.41,-1.42L17.83,13H22v-2z" />
+    </group>
+</vector>
